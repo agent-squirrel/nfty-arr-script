@@ -1,0 +1,5 @@
+username=someuser
+password=somepass
+endpoint=yourntfyendpoint.com
+domain=yourdomain.com
+topic=somentfytopic
