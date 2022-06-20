@@ -67,7 +67,7 @@ Set Sonarr/Radarr to use the new script:
 6. Optionally add tags
   
 7. In the path box, either manually type the path out or use the folder icon to browse to the script, in the example case it would be:
+
 ```bash
 /config/custom_scripts/posthook.sh
 ```
-
