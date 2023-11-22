@@ -27,7 +27,7 @@ topic=somentfytopic
 ```
 
 Put the script and the config somewhere that Sonarr/Radarr can execute it.
-In the case of Docker, you can mount the directory into the container, a docker-compose sample it below:
+In the case of Docker, you can mount the directory into the container, a docker-compose sample is below:
 
 ```docker
 version: "2.1"
